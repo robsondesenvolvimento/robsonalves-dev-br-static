@@ -1,0 +1,11 @@
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\RobsonDevStatic.Api
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\RobsonDevStatic.Api.dll
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\RobsonDevStatic.Api.deps.json
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\RobsonDevStatic.Api.runtimeconfig.json
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\RobsonDevStatic.Api.pdb
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
