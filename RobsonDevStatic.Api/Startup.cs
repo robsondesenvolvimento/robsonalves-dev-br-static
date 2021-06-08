@@ -32,6 +32,7 @@ namespace RobsonDevStatic.Api
             services.AddSingleton<ContextData>();
 
             services.AddControllers();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "RobsonDevStatic.Api", Version = "v1" });
