@@ -26,3 +26,4 @@ C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\
 C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Debug\net5.0\ref\RobsonDevStatic.Api.dll
 C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Debug\net5.0\RobsonDevStatic.Api.pdb
 C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Debug\net5.0\RobsonDevStatic.Api.genruntimeconfig.cache
+C:\Users\robso\Documents\Desenvolvimento Avancado\.NET\Pessoais\RobsonDevStatic\RobsonDevStatic.Api\obj\Debug\net5.0\RobsonDevStatic.Api.csproj.AssemblyReference.cache
