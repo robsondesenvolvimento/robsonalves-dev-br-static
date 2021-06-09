@@ -1,18 +1,11 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using RobsonDevStatic.Api.Data;
 using RobsonDevStatic.Api.Services;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace RobsonDevStatic.Api
 {
@@ -52,7 +45,11 @@ namespace RobsonDevStatic.Api
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();                
+                app.UseDeveloperExceptionPage();
+            }
+            else
+            {
+                app.UseCors(_allowRobsonDevOrigin);
             }
 
             app.PeoplesSeedingStart().ConfigureAwait(false);
@@ -63,8 +60,6 @@ namespace RobsonDevStatic.Api
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
-            app.UseCors(_allowRobsonDevOrigin);
 
             //app.UseCors(x => x
             //    .AllowAnyOrigin()

@@ -2,9 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using RobsonDevStatic.Api.Data;
 using RobsonDevStatic.Api.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace RobsonDevStatic.Api.Controllers
