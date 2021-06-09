@@ -42,7 +42,7 @@ namespace RobsonDevStatic.Api
             {
                 options.AddPolicy(name: _allowRobsonDevOrigin, builder =>
                  {
-                     builder.WithOrigins("https://www.robsonalves.dev.br", "https://www.robsonalves.net.br");
+                     builder.WithOrigins("https://www.robsonalves.dev.br", "https://www.robsonalves.net.br", "http://127.0.0.1:5500");
                  });
             });
         }

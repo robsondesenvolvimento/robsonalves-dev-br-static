@@ -25,7 +25,7 @@ namespace RobsonDevStatic.Api.Services
                         Birthday = new DateTime(1980, 8, 29), 
                         Country = "Brasil", 
                         State = "Paraná", 
-                        Email = "contato@robsonalves.dev.br" 
+                        Email = "robson.curitibapr@gmail.com" 
                     };
 
                     context.SocialMedia = context.SocialMedia ?? new SocialMedia
@@ -33,7 +33,7 @@ namespace RobsonDevStatic.Api.Services
                         LinkedIn = @"https://www.linkedin.com/in/robson-curitiba/",
                         Github = @"https://github.com/robsondesenvolvimento",
                         Discord = @"https://discord.gg/gpbe9gv7mC",
-                        Email = @"contato@robsonalves.dev.br"
+                        Email = @"robson.curitibapr@gmail.com"
                     };
 
                 });
